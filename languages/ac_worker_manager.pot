@@ -1,0 +1,272 @@
+# Copyright (C) 2022 UG
+# This file is distributed under the same license as the Worker Manager plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Worker Manager 1.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-20 17:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: controller/class-ac_worker_manager-duplicator.php:68
+#: controller/class-ac_worker_manager-duplicator.php:91
+msgid "AC Duplicator"
+msgstr ""
+
+#: frontend/views/auth/register.php:30 frontend/views/auth/register.php:37
+msgid "Already have an account."
+msgstr ""
+
+#: backend/views/recruiters.php:36
+msgid "Company"
+msgstr ""
+
+#: frontend/views/auth/register.php:11
+msgid "Create new account"
+msgstr ""
+
+#: backend/class-ac_worker_manager-backend.php:202 backend/views/nav.php:18
+msgid "Dashboard"
+msgstr ""
+
+#: backend/views/recruiters.php:30 backend/views/workers.php:36
+msgid "Email"
+msgstr ""
+
+#: frontend/views/auth/login.php:16 frontend/views/auth/login.php:17
+#: frontend/views/auth/register.php:26 frontend/views/auth/register.php:27
+msgid "Email address"
+msgstr ""
+
+#: backend/views/settings copy.php:43 backend/views/settings.php:43
+#: backend/views/woocommerce.php:36
+msgid "Error"
+msgstr ""
+
+#: frontend/views/auth/register.php:18 frontend/views/auth/register.php:19
+msgid "First Name"
+msgstr ""
+
+#: frontend/views/auth/login.php:34
+msgid "Forgot your password? "
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://awesomecoder.org/"
+msgstr ""
+
+#: frontend/views/auth/register.php:22 frontend/views/auth/register.php:23
+msgid "Last Name"
+msgstr ""
+
+#: frontend/views/auth/register.php:41
+msgid "Log in"
+msgstr ""
+
+#. Author of the plugin
+msgid "MD Ibrahim Kholil"
+msgstr ""
+
+#: backend/views/settings copy.php:107 backend/views/settings copy.php:141
+#: backend/views/settings copy.php:217 backend/views/settings copy.php:251
+#: backend/views/settings copy.php:285 backend/views/settings copy.php:319
+#: backend/views/settings.php:107 backend/views/settings.php:141
+#: backend/views/settings.php:175 backend/views/settings.php:209
+#: backend/views/settings.php:243 backend/views/settings.php:277
+#: backend/views/woocommerce.php:92
+msgid "No page available."
+msgstr ""
+
+#: backend/views/settings copy.php:183
+msgid "No template available."
+msgstr ""
+
+#: backend/views/metabox/product.php:13
+msgid "Packages"
+msgstr ""
+
+#: frontend/views/auth/login.php:20 frontend/views/auth/login.php:21
+#: frontend/views/auth/register.php:31
+msgid "Password"
+msgstr ""
+
+#: backend/views/recruiters.php:33 backend/views/workers.php:39
+msgid "Phone"
+msgstr ""
+
+#: backend/class-ac_worker_manager-backend.php:204 backend/views/nav.php:38
+msgid "Recruiters"
+msgstr ""
+
+#: backend/views/recruiters.php:27
+msgid "Recruiters Name"
+msgstr ""
+
+#: backend/views/recruiters.php:39 backend/views/workers.php:42
+msgid "Registered"
+msgstr ""
+
+#: frontend/views/auth/login.php:28
+msgid "Remember me"
+msgstr ""
+
+#: controller/class-ac_worker_manager-woocommerce.php:101
+msgid ""
+"requires WooCommerce in order to work. So please ensure that WooCommerce is "
+"both installed and activated"
+msgstr ""
+
+#: backend/views/settings copy.php:348 backend/views/settings.php:306
+#: backend/views/woocommerce.php:105
+msgid "Save Changes"
+msgstr ""
+
+#: backend/views/settings copy.php:196 backend/views/settings.php:154
+msgid "Select Account Page"
+msgstr ""
+
+#: backend/views/settings copy.php:191 backend/views/settings.php:149
+msgid "Select account page."
+msgstr ""
+
+#: backend/views/settings copy.php:81 backend/views/settings.php:81
+msgid "Select dynamic workers page."
+msgstr ""
+
+#: backend/views/settings copy.php:154
+msgid "Select Elemantor Template"
+msgstr ""
+
+#: backend/views/settings copy.php:149
+msgid "Select elemantor template."
+msgstr ""
+
+#: backend/views/settings copy.php:230 backend/views/settings.php:188
+msgid "Select Login Page"
+msgstr ""
+
+#: backend/views/settings copy.php:225 backend/views/settings.php:183
+msgid "Select login page."
+msgstr ""
+
+#: backend/views/woocommerce.php:71
+msgid "Select Product Package"
+msgstr ""
+
+#: backend/views/woocommerce.php:66
+msgid "Select product package."
+msgstr ""
+
+#: backend/views/settings copy.php:264 backend/views/settings.php:222
+msgid "Select Register Page"
+msgstr ""
+
+#: backend/views/settings copy.php:259 backend/views/settings.php:217
+msgid "Select register page."
+msgstr ""
+
+#: backend/views/settings copy.php:298 backend/views/settings.php:256
+msgid "Select Reset Page"
+msgstr ""
+
+#: backend/views/settings copy.php:293 backend/views/settings.php:251
+msgid "Select reset page."
+msgstr ""
+
+#: backend/views/settings copy.php:120 backend/views/settings.php:120
+msgid "Select Single Worker Page"
+msgstr ""
+
+#: backend/views/settings copy.php:115 backend/views/settings.php:115
+msgid "Select single worker page."
+msgstr ""
+
+#: backend/views/settings copy.php:86 backend/views/settings.php:86
+msgid "Select Users Page"
+msgstr ""
+
+#: backend/class-ac_worker_manager-backend.php:206 backend/views/nav.php:59
+#: backend/views/metabox/page.php:37 backend/views/metabox/product.php:24
+msgid "Settings"
+msgstr ""
+
+#: frontend/views/auth/login.php:47
+msgid "Sign in"
+msgstr ""
+
+#: frontend/views/auth/login.php:10
+msgid "Sign in to your account"
+msgstr ""
+
+#: frontend/views/auth/register.php:53
+msgid "Sign up"
+msgstr ""
+
+#: backend/views/settings copy.php:44 backend/views/settings.php:44
+#: backend/views/woocommerce.php:37
+msgid "Something went wrong!"
+msgstr ""
+
+#: backend/views/settings copy.php:28 backend/views/settings.php:28
+#: backend/views/woocommerce.php:21
+msgid "Success"
+msgstr ""
+
+#: backend/views/settings copy.php:29 backend/views/settings.php:29
+#: backend/views/woocommerce.php:22
+msgid "Successfully updated!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a custom plugin that manage workers and recruiters, to view the "
+"profile of workers."
+msgstr ""
+
+#: backend/views/metabox/page.php:77
+msgid "This isn't worker page."
+msgstr ""
+
+#: controller/class-ac_worker_manager-shortcode.php:128
+#: controller/class-ac_worker_manager-shortcode.php:130
+#: controller/class-ac_worker_manager-shortcode.php:132
+#: controller/class-ac_worker_manager-shortcode.php:134
+#: controller/class-ac_worker_manager-shortcode.php:139
+#: controller/class-ac_worker_manager-shortcode.php:144
+#: backend/views/recruiters.php:55 backend/views/recruiters.php:58
+#: backend/views/recruiters.php:61 backend/views/recruiters.php:64
+#: backend/views/recruiters.php:71 backend/views/workers.php:59
+#: backend/views/workers.php:83 backend/views/workers.php:86
+#: backend/views/workers.php:92
+msgid "Unknown"
+msgstr ""
+
+#: backend/views/metabox/page.php:26
+msgid "User"
+msgstr ""
+
+#: backend/class-ac_worker_manager-backend.php:205 backend/views/nav.php:48
+msgid "WooCommerce"
+msgstr ""
+
+#. Name of the plugin
+#: backend/class-ac_worker_manager-backend.php:201
+#: controller/class-ac_worker_manager-metabox.php:153
+#: controller/class-ac_worker_manager-metabox.php:163
+#: controller/class-ac_worker_manager-woocommerce.php:100
+msgid "Worker Manager"
+msgstr ""
+
+#: backend/class-ac_worker_manager-backend.php:203 backend/views/nav.php:28
+msgid "Workers"
+msgstr ""
+
+#: backend/views/workers.php:28
+msgid "Workers Name"
+msgstr ""
